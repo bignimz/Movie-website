@@ -5,10 +5,10 @@ Check it out live here https://alroude.github.io/Movie-website/
 # Movie-Website WordPress Custom Theme
 I have also developed a custom wodpress theme using the same template. <br>You can check it out live Here>> tmb.emerginghost.co.ke
 
-# Custom Login Page
+<h3>Custom Login Page</h3>
 
 <img src="https://github.com/alroude/Movie-website/blob/main/images/The%20Movies%20Box%202021-09-27.png">
 
-# Dashoboard Panel
+<h3>Dashoboard Panel</h3>
 
 <img src="https://github.com/alroude/Movie-website/blob/main/images/Dashboard%20%E2%80%B9%20The%20Movies%20Box%20%E2%80%94%20WordPress%202021-09-27.png">
